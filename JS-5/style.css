@@ -1,0 +1,77 @@
+/* .example{
+    position: absolute;
+    top: 50px;
+    left: 200px;
+    width: 300px;
+    height: 200px;
+    border: 25px solid #acdd94;
+    border-radius: 15px;
+    padding: 20px;
+    overflow: auto;
+} */
+/* .container{ */
+    /* position: relative;
+    margin: 300px;
+    border: 2px solid #acdd10; */
+/* } */
+/* .block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+} */
+/* .list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+ } */
+/* h1{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    max-width: 1020px;
+    margin: 0 auto;
+}
+.card{
+    max-width: 300px;
+    padding: 15px;
+    border: 1px solid #1f3016;
+    border-radius: 4px;
+    color: #1e360b;
+    background-color: #f7a606;
+    font-size: 16px;
+    line-height: 1;
+}
+.wrap{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 10px;
+}
+.new{
+    background-color: #1d20af;
+    color: #d3d3d3;
+} */
+
+#field{
+    position: relative;
+    background-color: #acdd94;
+    border: 10px solid black;
+    width: 1200px;
+    height: 650px;
+}
+#ball{
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    background: url('./soccerball-01.png') no-repeat center center/ cover;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
